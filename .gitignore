@@ -1,0 +1,12 @@
+# Ignora archivos del sistema Mac 
+.DS_store
+.venv/
+.vscode/
+.pytest_cache
+# __pycache__ folder
+__pycache__
+
+#data and environment configuration
+package-lock.json
+configuration.json
+environment.json
