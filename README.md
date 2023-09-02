@@ -1,6 +1,7 @@
 # Pivotal Tracker API Testing Framework
 
-This repository contains an API testing framework for automating tests on the Pivotal Tracker API.
+We designed a robust API testing framework using Python, pytest BDD, Selenium, and Gherkin to ensure the reliability and functionality of the Pivotal Tracker application. This comprehensive framework covers key functionalities, providing thorough testing and validation. With its powerful combination of technologies, the framework streamlines testing processes, enhancing the quality and stability of the Pivotal Tracker platform.
+
 
 ## Introduction
 
